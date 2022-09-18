@@ -16,3 +16,4 @@
     * [Block](html-coder/html/bem/block.md)
     * [Element](html-coder/html/bem/element.md)
     * [Modifier](html-coder/html/bem/modifier.md)
+    * [Mix](html-coder/html/bem/mix.md)
