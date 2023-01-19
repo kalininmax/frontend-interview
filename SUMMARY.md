@@ -17,7 +17,3 @@
     * [Element](html-coder/html/bem/element.md)
     * [Modifier](html-coder/html/bem/modifier.md)
     * [Mix](html-coder/html/bem/mix.md)
-
-***
-
-* [Page 1](page-1.md)
